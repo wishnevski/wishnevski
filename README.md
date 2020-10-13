@@ -11,7 +11,7 @@ I
 ---
 
 ## :mortar_board: Skills
-- **Languages:** [JS](https://wikipedia.org/wiki/JavaScript){:target="_blank"} ([ES5](https://wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://wikipedia.org/wiki/ECMAScript#6th_Edition_–_ECMAScript_2015)), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [C++](https://en.wikipedia.org/wiki/C++)  
+- **Languages:** <a target="_blank" src="https://wikipedia.org/wiki/JavaScript">JS<a/> ([ES5](https://wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://wikipedia.org/wiki/ECMAScript#6th_Edition_–_ECMAScript_2015)), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [C++](https://en.wikipedia.org/wiki/C++)  
 - **Methodologies:** SOLID, GRASP, GOF, OOP, COP, DOD, ECS, FLUX, BEM  
 - **Tools:** Sublime Text, Node, Figma, Photoshop, Blender, Atom, MinGW, Chrome  
 - **Techstack:** Three, WebGL, Vue, Express, Nginx, GSAP  
