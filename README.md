@@ -13,7 +13,7 @@
 **Languages:** JS (ES5, ES6), HTML, CSS, C++  
 **Methodologies:** SOLID, GRASP, GOF, OOP, COP, DOD, ECS, FLUX, BEM  
 **Tools:** Sublime Text, Node, Figma, Photoshop, Blender, Atom, MinGW, Chrome  
-**Techstack:** ThreeJS, WebGL, Vue, Express, Nginx, GSAP  
+**Techstack:** Three, WebGL, Vue, Express, Nginx, GSAP  
 
 ---
 
