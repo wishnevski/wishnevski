@@ -11,7 +11,7 @@ I
 ---
 
 ## :mortar_board: Skills
-- **Languages:** JS (ES5, ES6), HTML, CSS, C++  
+- **Languages:** [JS](https://wikipedia.org/wiki/JavaScript) ([ES5](https://wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://wikipedia.org/wiki/ECMAScript#6th_Edition)), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [C++](https://en.wikipedia.org/wiki/C++)  
 - **Methodologies:** SOLID, GRASP, GOF, OOP, COP, DOD, ECS, FLUX, BEM  
 - **Tools:** Sublime Text, Node, Figma, Photoshop, Blender, Atom, MinGW, Chrome  
 - **Techstack:** Three, WebGL, Vue, Express, Nginx, GSAP  
