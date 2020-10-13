@@ -6,13 +6,11 @@
 ---
 
 ## :dark_sunglasses: Who i am?
-- I am a self-taught programmer engaged in the design and development of digital projects and computer games. I've been writing code since I was 11, and I created my first 2D game when I was 14.
-
-- I am interested in the technological component of AAA games, and since my youth I have been obsessed with the design and creation of game engines. I understand interface design, trying to make the visual component of the product tasteful, avoiding cognitive loads on the user's perception.
+- I am a self-taught programmer engaged in the design and development of digital projects and computer games. I've been writing code since I was 11, and I created my first 2D game when I was 14. I am interested in the technological component of AAA games, and since my youth I have been obsessed with creating game engines.
 
 - I am an absolute perfectionist and obsessed with working out the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD :smile:
 
-- As a hobby I am interested in ethology, psychology, physiognomy, politics and the decustation of elite alcohol.
+- In my free time I study ethology, psychology, physiognomy, politics and tasting elite alcohol.
 
 ---
 
