@@ -1,9 +1,8 @@
 # Mike Wishnevski (21 y.o.)
+A small piece of maximalistic perfectionism
+---
 
 ![Wishnevski GitHub Cover](./cover.png)
-
----
-A small piece of maximalistic perfectionism
 
 ---
 
