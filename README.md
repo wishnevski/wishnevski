@@ -2,8 +2,8 @@
 
 ![Wishnevski GitHub Cover](./cover.png)
 
+---
 A small piece of maximalistic perfectionism
-
 
 ---
 
