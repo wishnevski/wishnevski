@@ -8,7 +8,7 @@
 ## :dark_sunglasses: Who i am?
 - I am a self-taught programmer engaged in the design and development of digital projects and computer games. I've been writing code since I was 11, and I created my first 2D game when I was 14. I am interested in the technological component of AAA games, and since my youth I have been obsessed with creating game engines.
 
--I am an absolute perfectionist and therefore I work through the smallest details of everything I create. Design, unify, iterate, refactor. I love performance and minimalism. Although I may just have OCD :smile:
+- I am an absolute perfectionist and therefore I work through the smallest details of everything I create. Design, unify, iterate, refactor. I love performance and minimalism. Although I may just have OCD :smile:
 
 - In my free time I study ethology, psychology, physiognomy, politics and tasting elite alcohol.
 
