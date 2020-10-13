@@ -8,8 +8,6 @@
   <a href="https://twitter.com/athulcajay">Twitter</a>
 </p>
 
-<hr/>
-
 ---
 
 ## Who i am?
