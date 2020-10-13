@@ -5,7 +5,7 @@
 
 ---
 
-## :mechanical_arm: Who i am?
+## :person_fencing: Who i am?
 I
 
 ---
