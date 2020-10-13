@@ -11,8 +11,8 @@ I
 ---
 
 ## :mortar_board: Skills
-- **Languages:** [JS](https://wikipedia.org/wiki/JavaScript) ([ES5](https://wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://wikipedia.org/wiki/ECMAScript#6th_Edition_–_ECMAScript_2015)), [HTML](https://en.wikipedia.org/wiki/HTML), [CSS](https://en.wikipedia.org/wiki/CSS), [C++](https://en.wikipedia.org/wiki/C++)  
-- **Methodologies:** SOLID, GRASP, GOF, OOP, COP, DOD, ECS, FLUX, BEM  
+- **Languages:** [JS](https://wikipedia.org/wiki/JavaScript) ([ES5](https://wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://wikipedia.org/wiki/ECMAScript#6th_Edition_–_ECMAScript_2015)), [HTML](https://wikipedia.org/wiki/HTML), [CSS](https://wikipedia.org/wiki/CSS), [C++](https://wikipedia.org/wiki/C++)  
+- **Methodologies:** [SOLID](https://wikipedia.org/wiki/SOLID), [GRASP](https://wikipedia.org/wiki/GRASP_(object-oriented_design)), [GOF](https://wikipedia.org/wiki/Design_Patterns), [OOP](https://wikipedia.org/wiki/Object-oriented_programming), COP, DOD, ECS, FLUX, BEM  
 - **Tools:** Sublime Text, Node, Figma, Photoshop, Blender, Atom, MinGW, Chrome  
 - **Techstack:** Three, WebGL, Vue, Express, Nginx, GSAP  
 
