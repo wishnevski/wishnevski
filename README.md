@@ -24,4 +24,4 @@ I
 
 ## Created:
 - [**ECState**](https://github.com/wishnevski/ecstate) (Fastest Archetype/SOA Entity-Component-System library for JS applications/games)
-- **DTS** (Dash Two Spaces) code splitting methodology
+- [**DTS**](https://github.com/wishnevski/dts) (Dash Two Spaces) code splitting methodology
