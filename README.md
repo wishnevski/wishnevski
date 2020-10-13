@@ -5,7 +5,7 @@
 
 ---
 
-## Who i am?
+## :eyeglasses: Who i am?
 I
 
 ---
@@ -18,6 +18,6 @@ I
 
 ---
 
-## Created:
+## :card_file_box: Created:
 - [**ECState**](https://github.com/wishnevski/ecstate) (Fastest Archetype/SOA Entity-Component-System library for JS applications/games)
 - [**DTS**](https://github.com/wishnevski/dts) (Dash Two Spaces) code splitting methodology
