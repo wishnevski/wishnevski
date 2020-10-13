@@ -1,8 +1,7 @@
+# Mike Wishnevski (21 y.o.)
 
 ![Wishnevski GitHub Cover](./cover.png)
 
-
-# Mike Wishnevski (21 y.o.)
 A small piece of maximalistic perfectionism
 
 
@@ -26,5 +25,5 @@ A small piece of maximalistic perfectionism
 
 
 ## Created:
-- ECState (Fastest Archetype/SOA Entity-Component-System library for JS applications/games)
-- DTS (Dash Two Spaces) code splitting methodology
+- **ECState** (Fastest Archetype/SOA Entity-Component-System library for JS applications/games)
+- **DTS** (Dash Two Spaces) code splitting methodology
