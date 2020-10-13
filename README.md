@@ -10,7 +10,9 @@ I am a self-taught programmer engaged in the design and development of digital p
 
 I am interested in the technological component of AAA games, and since my youth I have been obsessed with the design and creation of game engines.
 
-I am an absolute perfectionist and obsessed with perfecting the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD :smile:
+I am an absolute perfectionist and obsessed with perfecting the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD: D
+
+I understand the design and design of interfaces. I always try to make the visual component tastefully, avoiding cognitive loads on the user's perception.
 
 ---
 
