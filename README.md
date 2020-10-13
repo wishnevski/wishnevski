@@ -19,5 +19,5 @@ I
 ---
 
 ## :card_file_box: Created
-- [**ECState**](https://github.com/wishnevski/ecstate) (Fastest Archetype/SOA Entity-Component-System library for JS applications/games)
+- [**ECState**](https://github.com/wishnevski/ecstate) (Fastest Archetype/SOA Entity-Component-System library for JS applications and games)
 - [**DTS**](https://github.com/wishnevski/dts) (Dash Two Spaces) code splitting methodology
