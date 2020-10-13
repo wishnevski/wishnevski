@@ -5,12 +5,12 @@
 
 ---
 
-## Who i am? :eyeglasses:
+## :eyeglasses: Who i am?
 I
 
 ---
 
-## Skills :mortar_board:
+## :mortar_board: Skills
 - **Languages:** JS (ES5, ES6), HTML, CSS, C++  
 - **Methodologies:** SOLID, GRASP, GOF, OOP, COP, DOD, ECS, FLUX, BEM  
 - **Tools:** Sublime Text, Node, Figma, Photoshop, Blender, Atom, MinGW, Chrome  
@@ -18,6 +18,6 @@ I
 
 ---
 
-## Created :card_file_box:
+## :card_file_box: Created
 - [**ECState**](https://github.com/wishnevski/ecstate) (Fastest Archetype/SOA Entity-Component-System library for JS applications/games)
 - [**DTS**](https://github.com/wishnevski/dts) (Dash Two Spaces) code splitting methodology
