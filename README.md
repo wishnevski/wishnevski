@@ -5,7 +5,7 @@
 
 ---
 
-## :person_fencing: Who i am?
+## :computer: Who i am?
 I
 
 ---
