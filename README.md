@@ -10,7 +10,7 @@ I
 
 ---
 
-## :pen: Skills
+## :mortar_board: Skills
 - **Languages:** JS (ES5, ES6), HTML, CSS, C++  
 - **Methodologies:** SOLID, GRASP, GOF, OOP, COP, DOD, ECS, FLUX, BEM  
 - **Tools:** Sublime Text, Node, Figma, Photoshop, Blender, Atom, MinGW, Chrome  
