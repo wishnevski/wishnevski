@@ -1,7 +1,7 @@
 ![Wishnevski GitHub Cover](./cover.png)
 
 <h1 align="center">Mike Wishnevski (21 y.o.)</h2>
-<i align="center">A small piece of maximalistic perfectionism</i>
+<p align="center"><i>A small piece of maximalistic perfectionism</i></p>
 <p align="center">
   <a href="https://blog.athulcyriac.co">Blog</a> •
   <a href="https://twitter.com/athulcajay">Twitter</a>
