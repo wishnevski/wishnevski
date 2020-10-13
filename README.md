@@ -6,13 +6,13 @@
 ---
 
 ## :dark_sunglasses: Who i am?
-I am a self-taught programmer engaged in the design and development of digital projects and computer games. I've been writing code since I was 11, and I created my first 2D game when I was 14.
+- I am a self-taught programmer engaged in the design and development of digital projects and computer games. I've been writing code since I was 11, and I created my first 2D game when I was 14.
 
-I am interested in the technological component of AAA games, and since my youth I have been obsessed with the design and creation of game engines.
+- I am interested in the technological component of AAA games, and since my youth I have been obsessed with the design and creation of game engines.
 
-I am an absolute perfectionist and obsessed with perfecting the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD: D
+- I am an absolute perfectionist and obsessed with perfecting the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD: D
 
-I understand the design and design of interfaces. I always try to make the visual component tastefully, avoiding cognitive loads on the user's perception.
+- I understand the design and design of interfaces. I always try to make the visual component tastefully, avoiding cognitive loads on the user's perception.
 
 ---
 
