@@ -12,7 +12,7 @@
 
 - I understand the design and design of interfaces. I always try to make the visual component tastefully, avoiding cognitive loads on the user's perception.
 
-- I am an absolute perfectionist and obsessed with perfecting the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD: D
+- I am an absolute perfectionist and obsessed with perfecting the smallest details of everything I create. Design, unify, iterate, refactor. Obsessed with detail, performance and minimalism. Although I may just have OCD :smile:
 
 - As a hobby I am interested in ethology, psychology, physiognomy, politics and the decustation of elite alcohol.
 
