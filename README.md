@@ -17,7 +17,7 @@
 ## :mortar_board: Skills
 - **Languages:** [JS](https://wikipedia.org/wiki/JavaScript) ([ES5](https://wikipedia.org/wiki/ECMAScript#5th_Edition), [ES6](https://wikipedia.org/wiki/ECMAScript#6th_Edition_–_ECMAScript_2015)), [HTML](https://wikipedia.org/wiki/HTML), [CSS](https://wikipedia.org/wiki/CSS), [C++](https://wikipedia.org/wiki/C++)  
 - **Methodologies:** [SOLID](https://wikipedia.org/wiki/SOLID), [GRASP](https://wikipedia.org/wiki/GRASP_(object-oriented_design)), [GOF](https://wikipedia.org/wiki/Design_Patterns), [OOP](https://wikipedia.org/wiki/Object-oriented_programming), [COP](https://softwareengineering.stackexchange.com/questions/228063/what-is-component-oriented-programming-and-how-is-it-different-from-oop/228083), [DOD](https://wikipedia.org/wiki/Data-oriented_design), [ECS](https://wikipedia.org/wiki/Entity_component_system), [FLUX](https://facebook.github.io/flux/), [BEM](http://getbem.com/introduction/)  
-- **Tools:** [Sublime Text](https://www.sublimetext.com), [Node](https://nodejs.org), [Figma](http://figma.com), [Blender](https://www.blender.org), [Atom](https://atom.io), [MinGW](http://www.mingw.org), [Chrome](https://www.google.ru/intl/en/chrome/)  
+- **Tools:** [Sublime Text](https://www.sublimetext.com), [Node](https://nodejs.org), [Figma](http://figma.com), [Blender](https://www.blender.org), [MinGW](http://www.mingw.org), [Chrome](https://www.google.ru/intl/en/chrome/)  
 - **Techstack:** [ThreeJS](https://threejs.org), [WebGL](https://www.khronos.org/webgl/), [Vue](https://vuejs.org), [Express](https://expressjs.com), [Nginx](https://nginx.org), [GSAP](https://greensock.com/gsap/), [Rollup](https://rollupjs.org/guide/en/)  
 
 ---
