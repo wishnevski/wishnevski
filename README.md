@@ -10,7 +10,7 @@
 
 - I am an absolute perfectionist and therefore I work through the smallest details of everything I create. Design, unify, iterate, refactor. I love performance and minimalism. Although I may just have OCD. :smile:
 
-- In my free time I study ethology, psychology, physiognomy, politics and tasting elite alcohol.
+- In my free time I study ethology, psychology, physiognomy, politics and tasting elite whiskey.
 
 ---
 
