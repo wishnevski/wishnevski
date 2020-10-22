@@ -24,4 +24,4 @@
 
 ## :card_file_box: Created
 - [**ECState**](https://github.com/wishnevski/ecstate) (Fastest Archetype/SOA Entity-Component-System library for JS applications and games)
-- [**DTS**](https://github.com/wishnevski/dts) (Dash Two Spaces) universal code splitting methodology suitable for all popular programming languages
+- [**DTS**](https://github.com/wishnevski/dts) (Dash Two Spaces) universal code splitting methodology for all popular programming languages
