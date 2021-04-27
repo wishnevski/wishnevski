@@ -1,3 +1,10 @@
+![Wishnevski GitHub Cover](./cover.png)
+
+<h1 align="center">Mike Wishnevski (21 y.o.)</h2>
+<p align="center"><i>A small piece of maximalistic perfectionism</i></p>
+
+---
+
 ## :dark_sunglasses: Who i am?
 - I am a self-taught programmer engaged in the design and development of digital projects and computer games. I've been writing code since I was 11, and I created my first 2D game when I was 14. I am interested in the technological component of AAA games, and since my youth I have been obsessed with creating game engines.
 
