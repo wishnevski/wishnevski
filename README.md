@@ -1,8 +1,5 @@
 ![Wishnevski GitHub Cover](./cover.png)
 
-<h1 align="center">Mike Wishnevski (21 y.o.)</h2>
-<p align="center"><i>A small piece of maximalistic perfectionism</i></p>
-
 ---
 
 ## :dark_sunglasses: Who i am?
